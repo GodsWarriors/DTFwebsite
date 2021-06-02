@@ -7,11 +7,10 @@ draft: false
 description : "Pour les professionnels"
 
 # product Price
-price: "20.00"
+price: "150.00"
 priceBefore: ""
 
-# Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+
 
 #product ID
 productID: "3"

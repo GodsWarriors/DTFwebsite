@@ -1,8 +1,8 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-languageCode = "en"
+baseURL = "http://localhost:1313/"
+languageCode = "fr"
 title = "DTF | Derm Tech France"
-theme = "hargo"
+theme = "Hargo-hugo-ecommerce-theme"
 summaryLength = "20"
 paginate = 10
 disqusShortname = ""
@@ -34,7 +34,7 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Produits"
-  URL = "products"
+  URL = "produits"
   weight = 1
 
   [[menu.main]]
@@ -43,8 +43,8 @@ disqusShortname = ""
   weight = 0
 
   [[menu.main]]
-  name = "FAQ"
-  URL = "faq"
+  name = "Pigments"
+  URL = "pigments"
   weight = 3
 
   [[menu.main]]
@@ -55,7 +55,7 @@ disqusShortname = ""
   ############# footer menu #############
   [[menu.footer]]
   name = "Produits"
-  URL = "products"
+  URL = "produits"
   weight = 1
 
   [[menu.footer]]
@@ -64,13 +64,13 @@ disqusShortname = ""
   weight = 0
 
   [[menu.footer]]
-  name = "FAQ"
-  URL = "faq"
+  name = "Pigments"
+  URL = "pigments"
   weight = 3
 
   [[menu.footer]]
-  name = "Termes et conditions"
-  URL = "terms-conditions"
+  name = "Conditions générales"
+  URL = "conditionsgenerales"
   weight = 4
 
   [[menu.footer]]
@@ -88,17 +88,18 @@ description = "This is meta description"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "48.827876"
+mapLongitude = "2.276595"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "01 47 36 80 80"
-email = "nohaman@derm-tech.com"
+
+email = "nohaman@derm-tech.com nohaman@9online.fr"
 location = "Issy-les-Moulineaux , France"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 DTF - Derm Tech France Tout droit réservé |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
@@ -115,26 +116,7 @@ currencySymbol = "$"
   websiteID = "444334"
   publicKey = "811cf0927332bf51f2e12f84608594ac"
 
-  # Social Site
-  [[params.social]]
-  icon = "ti-facebook"
-  link = "#"
 
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-instagram"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
 
   # Contact Form
   [params.contact]

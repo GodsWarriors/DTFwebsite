@@ -10,8 +10,7 @@ description : "Pour les formes des sourcirls"
 price: "20.00"
 priceBefore: ""
 
-# Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+
 
 #product ID
 productID: "9"

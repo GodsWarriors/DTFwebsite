@@ -4,14 +4,13 @@ date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : ""
 
 # product Price
-price: "20.00"
+price: "5.50"
 priceBefore: ""
 
-# Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+
 
 #product ID
 productID: "2"

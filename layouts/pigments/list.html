@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+<!-- banner -->
+{{ if site.Data.homepage.banner.enable }}
+{{ with site.Data.homepage.banner }}
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-lg-5 col-md-6 order-2 order-md-1">
+        <h1>Pigments</h1>
+        <p>Séléctionner parmis notre grande variété de couleurs pour le résultat parfait !</p>
+        
+
+
+      </div>
+      <div class="col-lg-7 col-md-6 order-1 order-lg-2">
+        <img src="http://localhost:1313/images/pigments.png" class="img-fluid" alt="">
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /banner -->
+
+
+
+
+
+
+
+
+{{ if site.Data.homepage.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+
+{{ end }}
