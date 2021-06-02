@@ -1,0 +1,127 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Les meilleurs matériaux de dermographie !"
+  content : "Découvrez nos différents produits et accessoires pour le maquillage permanent ainsi que tatouage."
+  image : "images/DM.jpg"
+  # button
+  button:
+    enable : true
+    label : "Tous les Produits"
+    link : "products"
+  # demo video
+  video:
+    enable : false
+    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "Nos pigments"
+  content : "Séléctionner parmis une grande variété de couleurs pour vos pigmentations."
+  image : "images/pigments.png"
+
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "Découvrer tous nos accessoires"
+  content : "Disponible dans la rubrique produits !"
+  image : "images/test.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "Les produits"
+    link : "products"
+
+######################## raw material #######################
+material:
+  enable : false
+  title : "Ingredients Of Our Products"
+  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+          dol."
+  materialItem:
+    # material item loop
+    - title : "Matcha Seeds"
+      image : "images/material/material-1.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Aloe Vera"
+      image : "images/material/material-2.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Turmeric"
+      image : "images/material/material-3.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Tulshi leaf"
+      image : "images/material/material-4.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+
+########################### Advantage #########################
+advantage:
+  enable : false
+  title : "Advantages Of Using <br> Our Product"
+  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  image : "images/advantage.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Extremely lightweight"
+    - listItem : "Excellent breathability"
+    - listItem : "Can increase Cell activation"
+    - listItem : "Glowing Skin In 7 Days"
+    - listItem : "Increasing Glow Of Face"
+    - listItem : "More Beautiful Face Skin"
+
+
+######################## Promo Video ##########################
+video:
+  enable : false
+  title : "How To Use This Product?"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  videoThumb : "images/video-thumb.jpg"
+  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+
+
+######################## Products #############################
+products:
+  enable : true
+  title : "Products List"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "Ce que vous pensez de nos produits"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Antoine Allais"
+      image : "images/clients/client-1.jpg" # size 100px*100px
+      designation : ""
+      content : "Des produits de haute qualité et accessible à tous."
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Joël Delisle"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      designation : ""
+      content : "Très bon rapport qualité prix !"
+      rating : "four" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "John Doe"
+      image : "images/clients/client-3.jpg" # size 100px*100px
+      designation : ""
+      content : "Bon produits ainsi qu'accessoires proposés et de bonne qualité."
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Alexandre Laurens"
+      image : "images/clients/client-4.jpg" # size 100px*100px
+      designation : ""
+      content : "De très bon produits que je recommande à tous !"
+      rating : "four" # rating star, one to five

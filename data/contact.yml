@@ -1,0 +1,14 @@
+############################# contact info ################
+contact:
+  enable : true
+  # office
+  office:
+    title : "Contactez-nous"
+    content : "Vous pouvez nous contacter via les moyens suivants :"
+    # other information comes from "config.toml"
+
+
+
+####################### google map ########################
+map:
+  enable: true
