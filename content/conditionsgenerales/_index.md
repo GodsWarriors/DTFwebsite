@@ -9,7 +9,7 @@ description : "this is a meta description"
 
 Merci de lire ces conditions attentivement avant d'utiliser les Services Derm Tech France. En utilisant les Services Derm Tech France, vous acceptez d'être soumis aux présentes conditions.
 
-### **Moyens de Payements**
+### **Moyens de Paiements**
 
 Tous les articles doivent être payé par **virement** ou par **chèque** lors de l'arrivée de vos articles.
 

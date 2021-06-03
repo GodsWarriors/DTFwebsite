@@ -38,18 +38,18 @@ disqusShortname = ""
   weight = 1
 
   [[menu.main]]
-  name = ""
-  URL = ""
-  weight = 0
-
-  [[menu.main]]
   name = "Pigments"
   URL = "pigments"
-  weight = 3
+  weight = 2
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
+  weight = 3
+
+    [[menu.main]]
+  name = "À propos"
+  URL = "apropos"
   weight = 4
 
   ############# footer menu #############
@@ -59,23 +59,23 @@ disqusShortname = ""
   weight = 1
 
   [[menu.footer]]
-  name = ""
-  URL = ""
-  weight = 0
-
-  [[menu.footer]]
   name = "Pigments"
   URL = "pigments"
-  weight = 3
+  weight = 2
 
   [[menu.footer]]
   name = "Conditions générales"
   URL = "conditionsgenerales"
-  weight = 4
+  weight = 3
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
+  weight = 4
+
+    [[menu.footer]]
+  name = "À propos"
+  URL = "apropos"
   weight = 5
 
 
@@ -102,7 +102,7 @@ location = "Issy-les-Moulineaux , France"
 copyright = "| Copyright &copy; 2021 DTF - Derm Tech France Tout droit réservé |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
-currencySymbol = "$"
+currencySymbol = "€"
 
   # Preloader
   [params.preloader]
@@ -121,3 +121,5 @@ currencySymbol = "$"
   # Contact Form
   [params.contact]
   formAction = "#" # contact form works with formspree.io
+
+  

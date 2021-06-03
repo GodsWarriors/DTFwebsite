@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+
+<!-- material -->
+
+{{ with site.Data.homepage.material }}
+<section class="section pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 mx-auto text-center">
+        <h2>À propos de nous</h2>
+        <br>
+        <p>La société Derm Tech France est une PME avec un effectif de quatre salariés. DTF  conçoit et fabrique des dermopigments (esthétique, médical, ou encore stérile). Elle  commercialise du matériel de dermographie pour le maquillage permanent et pour le tatouage. (Dermographes «  pack laguna », aiguilles, cupules…). Nos produits disposent de la norme CE; ISO 9002. Depuis 2 ans aujourd’hui, DTF se développe rapidement dans le marché français et étranger</p>
+        <br>
+        <p><b>Aujourd’hui, Derm Tech France a une seule vision celui de satisfaire au mieux les besoins de nos clients en leur garantissant un produit de qualité.</b>
+        Pour plus d'informations, veuillez nous contacter. </p>
+      </div>
+    </div>
+    <br>
+    <br>
+
+</section>
+
+{{ end }}
+<!-- /material -->
+
+
+
+
+{{ if site.Data.homepage.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+
+{{ end }}
