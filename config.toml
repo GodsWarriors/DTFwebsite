@@ -34,7 +34,7 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Produits"
-  URL = "produits"
+  URL = "products"
   weight = 1
 
   [[menu.main]]
@@ -55,7 +55,7 @@ disqusShortname = ""
   ############# footer menu #############
   [[menu.footer]]
   name = "Produits"
-  URL = "produits"
+  URL = "products"
   weight = 1
 
   [[menu.footer]]
