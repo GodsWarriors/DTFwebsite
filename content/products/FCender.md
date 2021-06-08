@@ -4,7 +4,9 @@ date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : ""
+description : "PRODUIT POUR MARQUAGES
+ENDOSCOPIQUES
+"
 
 # product Price
 price: "28"
@@ -31,4 +33,4 @@ Le 185 Cender’s est utilisé dans le cadre d’un marquage de repérage sous 
 - **CARACTERISTIQUES:**
 	Tatouage endoscopique 5 ml Suspension de charbon de tourbe à 10% dans l’eau (PPI) Disponible en flacon ou en seringue. Classe IIB
 
-
+  - **LIRE** [Notice d'instructions](/link/IFU-nov2020.pdf)

@@ -38,7 +38,7 @@ disqusShortname = ""
   weight = 1
 
   [[menu.main]]
-  name = "Pigments"
+  name = "Pigments / Nuanciers"
   URL = "pigments"
   weight = 2
 
@@ -59,7 +59,7 @@ disqusShortname = ""
   weight = 1
 
   [[menu.footer]]
-  name = "Pigments"
+  name = "Pigments / Nuanciers"
   URL = "pigments"
   weight = 2
 
@@ -96,7 +96,7 @@ googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "01 47 36 80 80"
 
-email = "nohaman@derm-tech.com nohaman@9online.fr"
+email = "nohaman@derm-tech.com"
 location = "Issy-les-Moulineaux , France"
 # copyright
 copyright = "| Copyright &copy; 2021 DTF - Derm Tech France Tout droit réservé |"

@@ -17,11 +17,11 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "Nos pigments"
+  title : "Nos choix de couleurs"
   content : "Découvrer nos choix de couleurs possibles pour vos pigmentations ! "
   image : "images/Couleurs.png"
   button:
-    label : "Les Pigments"
+    label : "Pigments / Nuanciers"
     link : "pigments"
   
 

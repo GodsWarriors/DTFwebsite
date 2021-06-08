@@ -4,7 +4,9 @@ date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : ""
+description : "PRODUIT POUR MARQUAGES
+ENDOSCOPIQUES
+"
 
 # product Price
 price: "5.50"
@@ -32,3 +34,4 @@ L’indigo est utilisé pour la coloration de la muqueuse du colon.
 	Flacon de 10 ml Dilution 1% Non stérile Usage unique
 	Classe I
 
+- **LIRE** [Notice d'instructions](/link/REV_IndigoCarmin-VERSIONDEFINITIVE.pdf)
