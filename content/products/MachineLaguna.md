@@ -22,7 +22,6 @@ type: "products"
 # first image will be shown in the product page
 images:
   - image: "images/products/Laguna.jpg"
-  - image: "images/products/Laguna2.png"
  
 
 ---
