@@ -40,4 +40,4 @@ Le 185 Cender’s est utilisé dans le cadre d’un marquage de repérage sous 
 - **CARACTERISTIQUES:**
 	Tatouage endoscopique 5 ml Suspension de charbon de tourbe à 10% dans l’eau (PPI) Disponible en flacon ou en seringue. Classe IIB
 
-  - **LIRE** [Notice d'instructions](/link/IFU-nov2020.pdf)
+- **LIRE** [Notice d'instructions](/link/IFU-nov2020.pdf)

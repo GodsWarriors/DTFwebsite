@@ -41,5 +41,5 @@ images:
 	Dispositif médical de classe IIb (selon la règle 8 de l’annexe IX de la directive CEE 93/42) : dans le cadre d’un usage médical
 	Produit de tatouage dans le cadre d’une utilisation cosmétique.
 
-  - **LIRE** [Notice d'instructions]()
+- **LIRE** [Notice d'instructions]()
 
