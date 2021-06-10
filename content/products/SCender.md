@@ -11,7 +11,7 @@ price: "13.50"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "PRODUIT POUR MARQUAGES ENDOSCOPIQUES"
+shortDescription: "PRODUIT POUR MARQUAGES ENDOSCOPIQUES (Plus d'infos sur le marquage endoscopique ici [A propos](http://localhost:1313/apropos/))"
 
 #product ID
 productID: "16"
