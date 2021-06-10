@@ -4,15 +4,14 @@ date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "PRODUIT POUR MARQUAGES
-ENDOSCOPIQUES
-"
+description : "PRODUIT POUR MARQUAGES ENDOSCOPIQUES"
 
 # product Price
 price: "13.50"
 priceBefore: ""
 
-
+# Product Short Description
+shortDescription: "PRODUIT POUR MARQUAGES ENDOSCOPIQUES"
 
 #product ID
 productID: "16"
