@@ -94,10 +94,9 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "01 47 36 80 80"
-
-email = "nohaman@derm-tech.com"
-location = "Issy-les-Moulineaux , France"
+mobile = "01 47 36 80 80 | 01 48 02 61 71"
+email = "nohaman@derm-tech.com | aicha@derm-tech.com"
+location = "210 Avenue Aristide Briand, 93320 Les Pavillons-sous-Bois, France"
 # copyright
 copyright = "| Copyright &copy; 2021 DTF - Derm Tech France Tout droit réservé |"
 # Snipcart Credentials

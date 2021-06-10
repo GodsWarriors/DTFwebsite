@@ -13,7 +13,6 @@ price: "28"
 priceBefore: ""
 
 
-
 #product ID
 productID: "16"
 
@@ -27,6 +26,14 @@ images:
 
 ---
 
+Il s’agit d’un marquage préopératoire et préchimiothérapique de tumeurs mammaires.  
+	Cette technique,  permet à l’anatomopathologiste lors de l’examen extemporané de guider l’acte chirurgical quand il n’existe plus de nodule tumoral résiduel. 
+	En gastroentérologie, il s’agit d’un marquage endoscopique de polypes ou de tumeurs pour un repérage chirurgical et/ou un suivi endoscopique et histologique prolongé après exérèse de polypes ou de tumeurs.
+	Commercialisé sous le nom Cender’s, en 5 ml produit stérile 
+
+- **Composition**
+[Fiche technique](/link/Cender'sFicheTechnique.pdf)
+
 Le 185 Cender’s est utilisé dans le cadre d’un marquage de repérage sous endoscopie des zones à traiter par la chirurgie.
 - **POINT FORT DU PRODUIT:**
 	Les caractéristiques particulières de ce marqueur permettent un repérage efficace des zones à traiter par le chirurgien, la durée du marquage peut dépasser les 6 mois.
@@ -34,3 +41,4 @@ Le 185 Cender’s est utilisé dans le cadre d’un marquage de repérage sous 
 	Tatouage endoscopique 5 ml Suspension de charbon de tourbe à 10% dans l’eau (PPI) Disponible en flacon ou en seringue. Classe IIB
 
   - **LIRE** [Notice d'instructions](/link/IFU-nov2020.pdf)
+
