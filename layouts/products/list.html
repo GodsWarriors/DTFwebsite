@@ -20,7 +20,7 @@
               {{ if .Params.PriceBefore }}
               <s>{{ .Params.PriceBefore }}€</s>
               {{ end }}
-              <span class="lead text-primary">{{ .Params.Price }}€</span>
+             <!--<span class="lead text-primary">{{ .Params.Price }}€</span>-->
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
