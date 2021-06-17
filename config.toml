@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://localhost:1313/"
+baseURL = "https://godswarriors.github.io/DTF/"
 languageCode = "fr"
 title = "DTF | Derm Tech France"
 theme = "Hargo-hugo-ecommerce-theme"
