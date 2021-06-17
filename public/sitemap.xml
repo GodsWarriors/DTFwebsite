@@ -2,17 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://exemple.org/</loc>
-    <lastmod>2021-05-31T16:01:41+02:00</lastmod>
+    <loc>http://localhost:1313/products/portecupule/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://exemple.org/post/post/</loc>
-    <lastmod>2021-05-31T16:01:41+02:00</lastmod>
+    <loc>http://localhost:1313/products/anneauportecupules/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://exemple.org/post/</loc>
-    <lastmod>2021-05-31T16:01:41+02:00</lastmod>
+    <loc>http://localhost:1313/products/bpn/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://exemple.org/categories/</loc>
+    <loc>http://localhost:1313/products/chargeur/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://exemple.org/tags/</loc>
+    <loc>http://localhost:1313/conditionsgenerales/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/cupules/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/embouts/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/fcender/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/guidetransmission/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/implants/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/carmin/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/kitconception/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/machinedragon/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/machinelaguna/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/manchejetable/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/masquepratique/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pigments/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/protectionpeau/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/p%C3%A9dale/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/scender/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/apropos/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
