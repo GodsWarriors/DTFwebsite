@@ -28,7 +28,7 @@ about:
 
 ###################### Call to action ########################
 cta:
-  enable : true
+  enable : false
   title : "Découvrer tous nos accessoires"
   content : "Disponible dans la rubrique produits !"
   image : "images/test.png"

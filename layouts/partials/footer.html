@@ -13,23 +13,7 @@
           {{ end }}
         </ul>
       </div>
-      
-      <div class="col-lg-4 col-md-5">
-        <h5 class="font-weight-medium mb-4">Contactez-nous</h5>
-        <form action="{{ site.Params.contact.formAction }}" method="POST">
-          <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Votre Nom">
-          <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Votre Mail">
-          <textarea name="message" id="message" class="form-control mb-2" placeholder="Votre Message"></textarea>
-          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Envoyer</button>
-        </form>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-12 text-center py-4">
-        {{ site.Params.copyright | markdownify  }}
-      </div>
-    </div>
-  </div>
+
 </footer>
 
 {{ with site.Params.snipcartApiKey }}
