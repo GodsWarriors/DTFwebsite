@@ -54,7 +54,7 @@ disqusShortname = ""
 
       [[menu.main]]
   name = "conditions Generales"
-  URL = "http://localhost:1313/conditionsgenerales/"
+  URL = "conditionsgenerales"
   weight = 5
 
   ############# footer menu #############
