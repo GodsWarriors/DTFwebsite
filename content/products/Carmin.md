@@ -11,7 +11,7 @@ price: "5.50"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "PRODUIT POUR MARQUAGES ENDOSCOPIQUES (Plus d'infos sur les implants dermiques et marquage endoscopique ici [A propos](apropos))"
+shortDescription: "PRODUIT POUR MARQUAGES ENDOSCOPIQUES (Plus d'infos sur les implants dermiques et marquage endoscopique ici [A propos](https://godswarriors.github.io/DTF/apropos))"
 
 #product ID
 productID: "15"
@@ -33,4 +33,4 @@ L’indigo est utilisé pour la coloration de la muqueuse du colon.
 	Flacon de 10 ml Dilution 1% Non stérile Usage unique
 	Classe I
 
-- **LIRE** [Notice d'instructions](link/REV_IndigoCarmin-VERSIONDEFINITIVE.pdf)
+- **LIRE** [Notice d'instructions](https://godswarriors.github.io/DTF/link/REV_IndigoCarmin-VERSIONDEFINITIVE.pdf)
