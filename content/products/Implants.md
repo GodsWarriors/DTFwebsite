@@ -11,7 +11,7 @@ price: "10.00"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "PRODUIT POUR MARQUAGES ENDOSCOPIQUES (Plus d'infos sur les implants dermiques et marquage endoscopique ici [A propos](apropos))"
+shortDescription: "PRODUIT POUR MARQUAGES ENDOSCOPIQUES (Plus d'infos sur les implants dermiques et marquage endoscopique ici [A propos](https://godswarriors.github.io/DTF/apropos))"
 
 #product ID
 productID: "17"

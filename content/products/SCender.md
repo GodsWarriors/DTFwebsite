@@ -11,7 +11,7 @@ price: "13.50"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "PRODUIT POUR MARQUAGES ENDOSCOPIQUES (Plus d'infos sur les implants dermiques et marquage endoscopique ici [A propos](apropos))"
+shortDescription: "PRODUIT POUR MARQUAGES ENDOSCOPIQUES (Plus d'infos sur les implants dermiques et marquage endoscopique ici [A propos](https://godswarriors.github.io/DTF/apropos))"
 
 #product ID
 productID: "16"
@@ -32,7 +32,7 @@ Il s’agit d’un marquage préopératoire et préchimiothérapique de tumeurs 
 	Commercialisé sous le nom Cender’s, en 5 ml produit stérile 
 
 - **Composition**
-[Fiche technique](link/Cender'sFicheTechnique.pdf)
+[Fiche technique](https://godswarriors.github.io/DTF/link/Cender'sFicheTechnique.pdf)
 
 Le 185 Cender’s est utilisé dans le cadre d’un marquage de repérage sous endoscopie des zones à traiter par la chirurgie.
 - **POINT FORT DU PRODUIT:**
@@ -40,4 +40,4 @@ Le 185 Cender’s est utilisé dans le cadre d’un marquage de repérage sous 
 - **CARACTERISTIQUES:**
 	Tatouage endoscopique 5 ml Suspension de charbon de tourbe à 10% dans l’eau (PPI) Disponible en flacon ou en seringue. Classe IIB
 
-- **LIRE** [Notice d'instructions](link/IFU-nov2020.pdf)
+- **LIRE** [Notice d'instructions](https://godswarriors.github.io/DTF/link/IFU-nov2020.pdf)
