@@ -22,7 +22,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/FCender.png"
+  - image: "images/products/FCender.jpeg"
 
 ---
 

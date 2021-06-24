@@ -21,7 +21,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/MachineDragon.jpg"
+  - image: "images/products/MachineDragon.png"
 ---
 
 La  Machine  Dragon est particulièrement conçue pour des professionnels expérimentés.

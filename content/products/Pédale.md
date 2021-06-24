@@ -21,7 +21,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/Pedale.png"
+  - image: "images/products/Pedale.jpg"
 
 ---
 
